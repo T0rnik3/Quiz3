@@ -1,0 +1,83 @@
+......................THIS IS LOG FILE......................
+...............IT CONTAINS OUTPUTS OF SCRIPT................
+
+Exhebition No.1:
+Name:	Boston Taste, 1670 - 1970
+Dates:	from 2013-01-31 to 2013-03-30
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/4720
+Venues:
+City 1:	Cambridge
+Place:	Arthur M. Sackler Museum
+
+Exhebition No.2:
+Name:	The David Moore Robinson Bequest of Classical Art and Antiquities: A Special Exhibition
+Dates:	from 1961-05-01 to 1961-09-20
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/4773
+Venues:
+City 1:	None
+Place:	FOGGARTMUSEUM
+
+Exhebition No.3:
+Name:	From the Way of the Favored: Objects from the World of Islam
+Dates:	from 1988-02 to 1988-04
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/4928
+Venues:
+City 1:	Cambridge
+Place:	FOGGARTMUSEUM
+
+Exhebition No.4:
+Name:	European and American Pop Art, 1955-1975
+Dates:	from 2015-09-03 to 2016-01-03
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5022
+Venues:
+City 1:	Cambridge
+Place:	Harvard Art Museums
+
+Exhebition No.5:
+Name:	Technologies of the Image: Art in 19th-Century Iran
+Dates:	from 2017-08-26 to 2018-01-07
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5117
+Venues:
+City 1:	Cambridge
+Place:	Harvard Art Museums
+
+Exhebition No.6:
+Name:	A New Light on Bernard Berenson: Persian Paintings from Villa I Tatti
+Dates:	from 2017-05-20 to 2017-08-13
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5231
+Venues:
+City 1:	Cambridge
+Place:	Harvard Art Museums
+
+Exhebition No.7:
+Name:	Animal-Shaped Vessels from the Ancient World: Feasting with Gods, Heroes, and Kings
+Dates:	from 2018-09-07 to 2019-01-06
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5295
+Venues:
+City 1:	Cambridge
+Place:	Harvard Art Museums
+
+Exhebition No.8:
+Name:	An Exhibition of Italian Paintings and Drawings
+Dates:	from 1939-03-24 to 1939-04-15
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5298
+Venues:
+City 1:	None
+Place:	FOGGARTMUSEUM
+
+Exhebition No.9:
+Name:	Auch Kleine Dinge: Dürer and the Decorative Tradition
+Dates:	from 1971-03-04 to 1971-04-03
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5394
+Venues:
+City 1:	None
+Place:	BUSCH-REISINGERMUSEUM
+
+Exhebition No.10:
+Name:	German Old Masters Prints and Drawings
+Dates:	from 1950-05-08 to 1950-06-22
+URL:	https://www.harvardartmuseums.org/visit/exhibitions/5551
+Venues:
+City 1:	None
+Place:	BUSCH-REISINGERMUSEUM
+
